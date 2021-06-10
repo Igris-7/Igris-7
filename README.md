@@ -60,6 +60,7 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png"></code>
+  <code><img height="40" src="http://shijuvarghese.com/wp-content/uploads/2018/03/git-logo.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png"></code>
   <code><img height="40" src="https://wiki.cifprodolfoucha.es/images/7/76/PHP-Mysql.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687393-a2546b80-0bc0-11eb-8991-c0c72326f29c.png"></code>
@@ -78,7 +79,6 @@
   <code><img height="40" src="https://i.imgur.com/oUH9hNy.png"></code>
   <code><img height="40" src="https://i.imgur.com/X0wgeXR.png"></code>
   <code><img height="40" src="https://i.imgur.com/6PRqgmz.png"></code>  
-  <code><img height="40" src="http://shijuvarghese.com/wp-content/uploads/2018/03/git-logo.png"></code>
   
   </p>
 &nbsp;
