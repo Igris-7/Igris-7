@@ -68,7 +68,8 @@
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687701-80f47f00-0bc2-11eb-89f5-a1a8e6788aeb.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png"></code>
   <code><img height="40" src="https://greyphillips.com/Guides/assets/img/Microsoft_Excel-Logo.wine.png"></code>
-
+  <code><img height="40" src="https://i.imgur.com/X0wgeXR.png"></code>
+  
   </p>
   
 &nbsp;  
@@ -77,7 +78,6 @@
 <p><H3 align="center"><strong>Habilidades por aprender: 🌐</strong></p>
   
   <code><img height="40" src="https://i.imgur.com/oUH9hNy.png"></code>
-  <code><img height="40" src="https://i.imgur.com/X0wgeXR.png"></code>
   <code><img height="40" src="https://i.imgur.com/6PRqgmz.png"></code>  
   
   </p>
