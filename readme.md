@@ -17,7 +17,7 @@
        src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
   </a>
   
-<a href="https://www.linkedin.com/in/eyner-torres-9a48421a2/">
+<a href="www.linkedin.com/in/eyner-torres-yactapuri-9a48421a2">
   <img align="center" 
        alt="Linkdein" 
        width="22px" 
